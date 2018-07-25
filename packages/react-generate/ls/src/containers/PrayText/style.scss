@@ -1,0 +1,241 @@
+.single-bg {
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.pray-text-page {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url("./images/bg.jpg");
+    background-size: cover;
+    .name {
+        font-weight: 600;
+        word-break: break-all;
+    }
+    .fortune {
+        @extend .single-bg;
+        background-image: url("./images/fortune.png");
+        width: 230px;
+        height: 113px;
+        margin: auto;
+        margin-top: 15px;
+    }
+    .fortune-A {
+        white-space: pre-wrap;
+        margin-top: 15px;
+        padding-bottom: 30px;
+        background-image: url("./images/cutting-line.png");
+        background-repeat: no-repeat;
+        background-size: 307px auto;
+        background-position: bottom center;
+        white-space: pre-line;
+    }
+    .fortune-B {
+        white-space: pre-wrap;
+        margin-top: 15px;
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .fortune-C {
+        white-space: pre-wrap;
+        margin-top: 20px;
+        font-size: 22px;
+        span {
+            font-weight: bold;
+            font-size: 30px;
+        }
+    }
+    .fortune-D {
+        white-space: pre-wrap;
+        margin-top: 20px;
+        font-size: 22px;
+        span {
+            font-weight: bold;
+            font-size: 30px;
+        }
+    }
+
+    .action-wrap {
+        position: relative;
+        z-index: 1;
+        padding: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .btn-back {
+            @extend .single-bg;
+            background-image: url("./images/back.png");
+            width: 79px;
+            height: 78px;
+        }
+    }
+    .out-app-wrap {
+
+        width: 464px;
+        height: 953px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+
+        .content-wrap {
+            overflow: hidden;
+            .content {
+                @extend .single-bg;
+                box-sizing: border-box;
+                background-image: url("./images/text-gb.jpg");
+                width: 464px;
+                height: 953px;
+                text-align: center;
+                font-size: 28px;
+                line-height: 1.2;
+                padding: 40px 35px;
+                animation: text-display 2s ease-out;
+            }
+        }
+
+        .cover {
+            @extend .single-bg;
+            background-image: url("./images/cover.png");
+            height: 653px;
+            width: 499px;
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translate(-50%, 0);
+            .btn-download {
+                @extend .single-bg;
+                position: absolute;
+                bottom: 185px;
+                left: 50%;
+                transform: translate(-50%, 0);
+                background-image: url("./images/download.png");
+                width: 383px;
+                height: 58px;
+            }
+            .btn-draw-again {
+                @extend .single-bg;
+                position: absolute;
+                bottom: 108px;
+                left: 50%;
+                transform: translate(-50%, 0);
+                background-image: url("./images/btn-draw-again.png");
+                width: 383px;
+                height: 58px;
+            }
+        }
+        .ghost {
+            @extend .single-bg;
+            position: absolute;
+            bottom: -150px;
+            left: -140px;
+            background-image: url("./images/ghost.png");
+            width: 135px;
+            height: 147px;
+        }
+        .white-egg {
+            @extend .single-bg;
+            position: absolute;
+            right: -90px;
+            bottom: -115px;
+            background-image: url("./images/white-egg.png");
+            width: 132px;
+            height: 140px;
+        }
+        .red-egg {
+            @extend .single-bg;
+            position: absolute;
+            left: -110px;
+            bottom: -45px;
+            background-image: url("./images/red-egg.png");
+            width: 154px;
+            height: 165px;
+        }
+    }
+    .in-app-wrap {
+        margin-top: -70px;
+        .content {
+            position: relative;
+            padding: 35px 40px 55px 40px;
+            text-align: center;
+            @extend .single-bg;
+            box-sizing: border-box;
+            background-image: url("./images/text-bg1.jpg");
+            width: 464px;
+            height: 817px;
+            margin: auto;
+            .btn-login {
+                @extend .single-bg;
+                background-image: url("./images/btn-login.png");
+                width: 352px;
+                height: 58px;
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                transform: translate(-50%, -50%);
+            }
+            .name {
+                padding: 0 40px;
+            }
+            .btn-save {
+                @extend .single-bg;
+                background-image: url("./images/btn-save.png");
+                display: block;
+                margin: auto;
+                margin-top: 30px;
+                width: 352px;
+                height: 58px;
+            }
+            .btn-back-index {
+                @extend .single-bg;
+                background-image: url("./images/btn-back-index.png");
+                display: block;
+                margin: auto;
+                margin-top: 30px;
+                width: 352px;
+                height: 58px;
+            }
+            .ghost {
+                @extend .single-bg;
+                position: absolute;
+                bottom: -40px;
+                right: -80px;
+                transform: scaleX(-1);
+                background-image: url("./images/ghost.png");
+                width: 135px;
+                height: 147px;
+            }
+        }
+        .banner {
+            @extend .single-bg;
+            background-image: url("./images/ssr.png");
+            margin-top: 15px;
+            width: 750px;
+            height: 258px;
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translate(-50%, 0);
+        }
+
+    }
+
+}
+
+@keyframes text-display {
+    0% {
+        transform: translate(0, 280px);
+
+    }
+    20% {
+        transform: translate(0, 280px);
+
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}

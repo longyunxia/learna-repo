@@ -1,0 +1,40 @@
+{
+    "name": "doubleeggs",
+    "version": "0.0.1",
+    "scripts": {
+        "dev": "NODE_ENV=development webpack-dev-server --config webpack.dev.config.js",
+        "build": "webpack --config webpack.prod.config.js -p --display-error-details"
+    },
+    "dependencies": {
+        "lib-flexible": "^0.3.2",
+        "react": "15",
+        "react-barrage": "^0.0.3",
+        "react-dom": "15",
+        "react-fastclick-alt": "^2.0.0",
+        "react-helmet": "^5.2.0",
+        "react-router-dom": "^4.2.2"
+    },
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-plugin-syntax-dynamic-import": "^6.18.0",
+        "babel-plugin-transform-runtime": "^6.23.0",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "clean-webpack-plugin": "^0.1.19",
+        "cross-env": "^5.0.5",
+        "extract-text-webpack-plugin": "^3.0.2",
+        "html-webpack-plugin": "^3.2.0",
+        "image-webpack-loader": "^3.4.2",
+        "node-sass": "^4.7.2",
+        "postcss-loader": "^2.1.6",
+        "postcss-px2rem": "^0.3.0",
+        "precss": "^3.1.2",
+        "sass-loader": "^6.0.6",
+        "webpack": "3",
+        "webpack-bundle-analyzer": "^2.9.0",
+        "webpack-dev-server": "^2.9.1",
+        "webpack-merge": "^4.1.1",
+        "webpack-visualizer-plugin": "^0.1.11"
+    }
+}

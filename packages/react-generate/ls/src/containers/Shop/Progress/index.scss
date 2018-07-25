@@ -1,0 +1,67 @@
+.shop-progress{
+    position: relative;
+    padding-top: 80px;
+}
+.shop-progress-outer,
+.shop-progress-inner{
+    height: 4px; /*px*/
+    border-radius: 2px; /*px*/
+}
+.shop-progress-outer{
+    background: #bfbfbf;
+}
+.shop-progress-inner{
+    background: #df0023;
+}
+.shop-progress-milestone{
+    position: absolute;
+    height: 80px;
+    top: 0;
+    &.active .shop-progress-milestone-bar{
+        background: #df0023;
+    }
+}
+.shop-progress-milestone-mh{
+    .shop-progress-milestone-logo{
+        background-image: url(../logo-mh.png);
+background-position: 0 0;
+background-size: 100% 100%;background-repeat: no-repeat;
+    }
+}
+.shop-progress-milestone-read{
+    .shop-progress-milestone-logo{
+        background-image: url(../logo-read.png);
+background-position: 0 0;
+background-size: 100% 100%;background-repeat: no-repeat;
+    }
+}
+.shop-progress-milestone-logo{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: -31px; /*px*/
+    width: 60px; /*px*/
+    height: 60px; /*px*/
+}
+.shop-progress-milestone-bar{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -2px; /*px*/
+    width: 4px; /*px*/
+    background: #bfbfbf;
+}
+.shop-progress-info{
+    margin-top: 15px;
+    font-size: 20px;
+    line-height: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    .bigger{
+        font-size: 30px;
+    }
+    .bold{
+        font-weight: bold;
+    }
+}

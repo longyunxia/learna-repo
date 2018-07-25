@@ -1,0 +1,60 @@
+.shop-input-box{
+    display: block;
+    padding: 24px;
+    width: 100%;
+    height: 228px;
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+.shop-input-box::-webkit-input-placeholder{
+    line-height: 180px;
+    text-align: center;
+}
+.shop-input-input{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    bottom: 30px;
+    transition: top 0.5s;
+}
+.shop-input-btn{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+}
+.shop-input-letter{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 312px;
+    height: 294px;
+    background: url(../letter.png)  no-repeat;
+    background-size: 100% 100%;
+}
+.shop-input-barrage{
+    position: absolute;
+    top: 500px;
+    left: 0;
+    right: 0;
+    height: 210px;
+    overflow: hidden;
+}
+.shop-input-1{
+    background-image: url(../bg-web-1.png);
+    background-position: center 226px;
+    background-size: 387px 981px;
+    background-repeat: no-repeat;
+}
+.shop-input-2{
+    background-image: url(../bg-web-2.png);
+    background-position: center 194px;
+    background-size: 303px 1072px;
+    background-repeat: no-repeat;
+}
+.shop-input-3{
+    background-image: url(../bg-web-3.png);
+    background-position: center 210px;
+    background-size: 647px 862px;
+    background-repeat: no-repeat;
+}
