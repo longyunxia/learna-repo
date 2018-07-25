@@ -2,12 +2,7 @@
 
 const program = require('commander');
 const ge = require('../src/generate');
-
-
-/**
- * Usage.
- */
-
+//command
 program
   .command('init <name>')
   .alias('i')

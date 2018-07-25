@@ -4,7 +4,7 @@ exports.run = function (name) {
   const newDir = './' + name;
   fs.pathExists(newDir, (err, exists) => {
     if (exists) {
-      console.log(chalk.red(`${newDir} already existed`))
+      console.log(chalk.red(`${newDir} already existe 😭`))
     } else {
       fs.copy(__dirname + '/template/', newDir, err => {
         if (err) return console.error(err);

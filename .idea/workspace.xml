@@ -1,7 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5713f468-09c6-4cf6-8831-e0b5d2d92daa" name="Default" comment="" />
+    <list default="true" id="5713f468-09c6-4cf6-8831-e0b5d2d92daa" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/bin/ge-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/bin/ge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/board.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/btn-back-index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/btn-draw-again.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/btn-login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/btn-save.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/comic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/comic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/cutting-line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/fortune.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/ghost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/red-egg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/ssr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/ssr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/text-bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/text-gb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/tip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/images/white-egg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/PrayText/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Input/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Input/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Progress/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Progress/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Reply/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Reply/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Rule/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Rule/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Rule/rule-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/Rule/rule.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/bg-web-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/bg-web-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/bg-web-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/book-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/book-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/book-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/box-desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/btn-brown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/btn-red-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/btn-red.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/const.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/finger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-avatar-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-avatar-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-avatar-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-client-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-desc-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-desc-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-desc-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-notice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter-web-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/letter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/logo-mh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/logo-read.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/pic-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/rule-star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/signature-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/signature-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/signature-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Shop/title-desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/baogeng-gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/baogeng-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/book-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/btn-favor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/btn-favored.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/cooperation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/fanwai-gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/fanwai-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/fireworks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/fireworks1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/free-gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/free-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/gift-gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/gift-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/hetu-gray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/hetu-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/pillar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/rule.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/rule1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/images/share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/Welfare/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/containers/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/functions.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/index.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/log.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/src/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/vconsole.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/webpack.common.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/webpack.dev.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/webpack.prod.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/ls/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/generate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/containers/App.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/containers/Index/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/containers/Index/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/functions.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/index.ejs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/src/utils/asyncComponent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/vconsole.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/webpack.common.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/webpack.dev.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/webpack.prod.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/src/template/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-generate/yarn.lock" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lerna.json" afterPath="$PROJECT_DIR$/lerna.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,88 +161,58 @@
       <file leaf-file-name="lerna.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lerna.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ge-init.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/react-generate/bin/ge-init.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="75">
+              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/react-generate/package.json">
+        <entry file="file://$PROJECT_DIR$/packages/n-react-generator/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="asyncComponent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/react-generate/src/template/src/utils/asyncComponent.js">
+      <file leaf-file-name="generate.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/packages/n-react-generator/src/generate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+            <state relative-caret-position="90">
+              <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/react-generate/src/template/.gitignore">
+      <file leaf-file-name="ge-init.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages/n-react-generator/bin/ge-init.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ge.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/react-generate/bin/ge.js">
+        <entry file="file://$PROJECT_DIR$/packages/n-react-generator/bin/ge.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="150">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/react-generate/package-lock.json">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="generate.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packages/react-generate/src/generate.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,6 +232,9 @@
       <find>chalk</find>
       <find>pageFile</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/packages/react-generate</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -137,10 +243,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/packages/react-generate/bin/ge-generate.js" />
-        <option value="$PROJECT_DIR$/packages/react-generate/package.json" />
         <option value="$PROJECT_DIR$/packages/react-generate/bin/ge.js" />
         <option value="$PROJECT_DIR$/packages/react-generate/src/generate.js" />
         <option value="$PROJECT_DIR$/packages/react-generate/bin/ge-init.js" />
+        <option value="$PROJECT_DIR$/packages/react-generate/package.json" />
+        <option value="$PROJECT_DIR$/packages/n-react-generator/bin/ge-init.js" />
+        <option value="$PROJECT_DIR$/packages/n-react-generator/package.json" />
+        <option value="$PROJECT_DIR$/packages/n-react-generator/src/generate.js" />
+        <option value="$PROJECT_DIR$/lerna.json" />
       </list>
     </option>
   </component>
@@ -149,9 +259,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/packages/react-generate/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="74" />
@@ -202,7 +309,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="react-generate" />
+              <option name="myItemId" value="n-react-generator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,7 +327,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="react-generate" />
+              <option name="myItemId" value="n-react-generator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -242,33 +349,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="react-generate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learna-repo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="learna-repo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="packages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-generate" />
+              <option name="myItemId" value="n-react-generator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -392,19 +473,21 @@
       <updated>1532316691132</updated>
       <workItem from="1532316693093" duration="10140000" />
       <workItem from="1532431375931" duration="13773000" />
-      <workItem from="1532511591358" duration="734000" />
+      <workItem from="1532511591358" duration="1918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24647000" />
+    <option name="totallyTimeSpent" value="25831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="23" width="1280" height="718" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -416,7 +499,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -569,38 +651,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/packages/react-generate/src/template/src/log.js" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lerna.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-generate/bin/ge-init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-generate/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/packages/react-generate/bin/ge.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -613,14 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="80" column="27" lean-forward="false" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packages/react-generate/src/generate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -645,6 +687,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-generate/src/generate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-generate/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-generate/bin/ge-init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/n-react-generator/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lerna.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/n-react-generator/bin/ge-init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/n-react-generator/bin/ge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/n-react-generator/src/generate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
           <folding />
         </state>
       </provider>
